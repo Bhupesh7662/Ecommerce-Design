@@ -109,37 +109,3 @@ a:hover {
     border-top-style: solid;
     border: 3px solid #dcdee3;
 }
-
-
-/* .demo-row,
-.demo-row .row {
-    overflow: hidden !important;
-    height: 100vh !important;
-    width: 100% !important;
-}
-
-.image,
-.image1 {
-    height: 100vh;
-    width: 100% !important;
-}
-
-.image {
-    background: url('img/demo.jpg') no-repeat center;
-}
-
-.image1 {
-    background: url('img/demo1.jpg') no-repeat center;
-}
-
-@media only screen and (max-width: 600px) {
-    .image {
-        height: 50vh !important;
-        background-size: cover;
-    }
-
-    .image1 {
-        height: 50vh !important;
-        background-size: cover;
-    }
-} */
